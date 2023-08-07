@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d18452d4.css",
+    "main.js": "/static/js/main.e88d9a88.js",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/bannerlarge.jpg": "/static/media/bannerlarge.82318613229e5ddb6a87.jpg",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/bgstore.jpg": "/static/media/bgstore.5216bdae49d62577cd66.jpg",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/banner_vertical2.jpg": "/static/media/banner_vertical2.14258ad131a666b9e990.jpg",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/banner_hori01.jpg": "/static/media/banner_hori01.7a7fa2df1959c950d113.jpg",
+    "static/media/banner_hori02.jpg": "/static/media/banner_hori02.4647c4e472757b5c991d.jpg",
+    "static/media/slider_1.jpg": "/static/media/slider_1.1d1f8369a468a8f6189a.jpg",
+    "static/media/default-user.png": "/static/media/default-user.419fc31341f3cf25ba02.png",
+    "static/media/bestseler.jpg": "/static/media/bestseler.5f5ed8ac4837b0aab39d.jpg",
+    "static/media/bgcam_2.jpg": "/static/media/bgcam_2.6cce446da4639d4d6c82.jpg",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/bgcam_1.jpg": "/static/media/bgcam_1.44b170b0b104d9661548.jpg",
+    "static/media/payment_method.png": "/static/media/payment_method.47ad3e696f50516da1b3.png",
+    "static/media/gp-btn.svg": "/static/media/gp-btn.a36ff3d90dbd10c6ac2e75e6de7c7b59.svg",
+    "static/media/fb-btn.svg": "/static/media/fb-btn.73c1e242dbb5c56e72c145a4b4fa35c0.svg",
+    "static/media/no-result.svg": "/static/media/no-result.17994ab5388f3918076b390582d4871d.svg",
+    "index.html": "/index.html",
+    "main.d18452d4.css.map": "/static/css/main.d18452d4.css.map",
+    "main.e88d9a88.js.map": "/static/js/main.e88d9a88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d18452d4.css",
+    "static/js/main.e88d9a88.js"
+  ]
+}
