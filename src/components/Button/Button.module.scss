@@ -1,0 +1,58 @@
+.wrapper {
+    width: 100%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    flex-flow: row nowrap;
+    justify-content: center;
+    border: 1px solid transparent;
+    background-color: transparent;
+    text-align: center;
+    color: var(--text-color);
+    line-height: 38px;
+    cursor: pointer;
+
+    &.primary {
+        background-color: var(--main-color);
+        color: #fff;
+
+        &:hover {
+            border-style: dashed;
+            border-color: var(--main-color);
+            background-color: #fff;
+            color: var(--main-color);
+        }
+    }
+
+    &.outline {
+        border-style: dashed;
+        border-color: var(--main-color);
+        color: var(--main-color);
+
+        &:hover {
+            background-color: var(--main-color);
+            color: #fff;
+        }
+    }
+
+    &.outlineWhite {
+        border-style: dashed;
+        border-color: var(--main-color);
+        color: var(--main-color);
+        background-color: #fff;
+        font-weight: 700;
+
+        &:hover {
+            background-color: var(--main-color);
+            color: #fff;
+        }
+    }
+
+    &.rounded {
+        border-radius: 5px;
+    }
+
+    &.w-fit-content {
+        max-width: 120px;
+    }
+}
